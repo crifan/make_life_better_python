@@ -16,3 +16,7 @@ Python的虚拟环境工具，目前常见的有：
 如图：
 
 ![isolate_python_env](../../assets/img/isolate_python_env.jpg)
+
+详见独立教程：
+
+[隔离Python项目环境：虚拟环境](https://book.crifan.com/books/isolate_python_project_virtual_environment/website/)

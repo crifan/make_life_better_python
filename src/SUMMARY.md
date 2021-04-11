@@ -14,6 +14,7 @@
     * [Python特有语法](py_dev/py_syntax/py_special.md)
   * [Python内置函数](py_dev/builtin_func.md)
 * [Python专题](py_topic/README.md)
+  * [正则re](py_topic/regex_re.md)
   * [打包](py_topic/package.md)
   * [项目部署](py_topic/project_deploy.md)
   * [测试](py_topic/test.md)
