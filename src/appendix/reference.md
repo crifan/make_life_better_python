@@ -2,6 +2,7 @@
 
 * 【已解决】Python中的hasattr的含义及实际用法举例
 * 
+* [Python打包利器：PyInstaller](https://book.crifan.com/books/python_package_tool_pyinstaller/website/)
 * [【教程】详解Python中代码缩进（Indent）：影响代码的内在逻辑关系和执行结果 – 在路上](https://www.crifan.com/tutorial_python_indent/)
 * [【记录】使用Python的IDE：PyScripter – 在路上](https://www.crifan.com/try_with_python_ide_pyscripter/)
 * [编辑器和IDE总结](https://book.crifan.com/books/editor_ide_summary/website/)
