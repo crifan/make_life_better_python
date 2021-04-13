@@ -1,7 +1,21 @@
 # 参考资料
 
 * 【已解决】Python中的hasattr的含义及实际用法举例
+* 【详解】Python 3中字符串的替换str.replace
+* 【整理Book】保存数据的仓库：数据库
+* 【整理Book】Python心得：操作CSV和Excel
+* 【已解决】Python中删除字典dict中的键值
+* 【已解决】把Celery+Redis集成到在线Flask中且用supervisor去管理后台服务
+* 【已解决】把Python3的pipenv的Flask部署到CentOS服务器上
 * 
+* [【已解决】python中的dict被copy后仍会被修改](http://www.crifan.com/python_after_copy_modify_still_updated)
+* [轻量但强大的Python框架：Flask](https://book.crifan.com/books/light_powerful_python_framework_flask/website/)
+* [【记录】试试Mac中Python自带的IDE工具IDLE的效果](http://www.crifan.com/mac_trail_python_builtin_ide_tool_idle_effect)
+* [【已解决】选择好的Flask的REST API的框架](https://www.crifan.com/choose_better_flask_rest_api_framework_lib/)
+* [【已解决】Flask中获取REST API接口的传递进来的参数](http://www.crifan.com/flask_get_pass_in_rest_api_parameter)
+* [【已解决】CentOS服务器中搭建Python的Flask的REST API](http://www.crifan.com/centos_server_build_python_flask_rest_api)
+* [【已解决】把Python3的pipenv的Flask部署到CentOS服务器上](http://www.crifan.com/python_3_pipenv_flask_deployment_to_centos_server)
+* [【已解决】CentOS中如何查看Python的site-packages位置](http://www.crifan.com/centos_how_check_python_site_package_location)
 * [Python打包利器：PyInstaller](https://book.crifan.com/books/python_package_tool_pyinstaller/website/)
 * [【教程】详解Python中代码缩进（Indent）：影响代码的内在逻辑关系和执行结果 – 在路上](https://www.crifan.com/tutorial_python_indent/)
 * [【记录】使用Python的IDE：PyScripter – 在路上](https://www.crifan.com/try_with_python_ide_pyscripter/)
@@ -17,6 +31,20 @@
 * [【整理】python中的with的含义和用法](http://www.crifan.com/python_with_meaning_and_usage)
 * [【整理】Python 特殊方法 魔术方法](https://www.crifan.com/python_special_method_magic_method/)
 * [【已解决】Python中直接return数组和yield的区别](http://www.crifan.com/python_return_array_vs_yield)
+* [【已解决】Python中用正则re去搜索分组的集合](http://www.crifan.com/python_use_re_regex_to_search_group_collection)
+* [【记录】升级宝塔Linux面板](http://www.crifan.com/upgrade_baota_linux_panel)
+* [【已解决】Python中继承父类如何重写__init__以自定义初始化](http://www.crifan.com/python_inherit_parent_class_override_init_to_customize_initialization)
+* [【已解决】python中把dict的json输出到文件且带缩进和不要unicode的\uxxxx](http://www.crifan.com/python_output_dict_to_file_with_indent_and_not_unicode_back_slash_u_xxx)
+* [【已解决】Python中实现dict的递归的合并更新](http://www.crifan.com/python_dict_merge_recursively)
+* [【已解决】Python中两个星号**参数去传递给函数出错：SyntaxError invalid syntax](https://www.crifan.com/python_using_two_asterisk_double_star_parameter_function_syntaxerror_invalid_syntax/)
+* [【已解决】Python中使用相对路径导入库函数](https://www.crifan.com/python_relative_path_import_lib_function)
+* [【已解决】Python中递归import导入：ImportError: cannot import name](https://www.crifan.com/python_recursive_import_importerror_cannot_import_name)
+* [【已解决】python中的相对路径导入库失败No module named](https://www.crifan.com/python_relative_import_lib_fail_no_module_named)
+* [【已解决】gunicorn运行Flask的app出错：gunicorn.errors.HaltServer HaltServer Worker failed to boot 3](http://www.crifan.com/gunicorn_flask_app_gunicorn_errors_haltserver_haltserver_worker_failed_to_boot_3)
+* [【已解决】gunicorn运行Flask的app但访问出错：org.apache.http.conn.HttpHostConnectException Connect to failed Operation timed out](http://www.crifan.com/gunicorn_flask_app_org_apache_http_conn_httphostconnectexception_connect_to_failed_operation_timed_out)
+* [【已解决】把Celery+Redis集成到在线Flask中且用supervisor去管理后台服务](http://www.crifan.com/celery_redis_integrated_online_flask_supervisor_manage_service)
+* [【已解决】部署Flask到生产环境服务器上的基本逻辑和大概步骤流程](http://www.crifan.com/deploy_flask_to_production_server_basic_logic_and_step)
+* [【已解决】部署Flask的WSGI的方式的选择](http://www.crifan.com/deploy_python_flask_wsgi_method_choice)
 * 
 * [谁是2020年最强Python库？年度Top10出炉 - 知乎](https://zhuanlan.zhihu.com/p/341219464)
 * [或许，这是最强大的一款Python GUI工具 - 知乎](https://zhuanlan.zhihu.com/p/200754892)
@@ -44,4 +72,26 @@
 * [BDFL - Python Wiki](https://wiki.python.org/moin/BDFL)
 * [社区 — The Hitchhiker's Guide to Python](http://pythonguidecn.readthedocs.io/zh/latest/intro/community.html)
 *  [Learn Python in Y Minutes](https://learnxinyminutes.com/docs/python/)
+* [Python-Guide-CN/style.rst at master · Prodesire/Python-Guide-CN](https://github.com/Prodesire/Python-Guide-CN/blob/master/docs/writing/style.rst)
+* [awesome-python-cn/README.md at master · jobbole/awesome-python-cn](https://github.com/jobbole/awesome-python-cn/blob/master/README.md)
+* [还在用 Python 2.x？Python 3.7.0 正式发布！](https://mp.weixin.qq.com/s/M80fP95-dE0-a7oOdSFm8Q)
+* [The History of Python: Introduction and Overview](http://python-history.blogspot.com/2009/01/introduction-and-overview.html)
+* [Python语言在企业级应用上的十大谬误 | 程序师](http://www.techug.com/post/10-myths-of-enterprise-python.html)
+* [Prodesire/Python-Guide-CN: Python最佳实践指南](https://github.com/Prodesire/Python-Guide-CN)
+* [“Python 3永远不可能出现在Facebook”，4年后：真香](https://mp.weixin.qq.com/s/rLxjnlVOp-di8jXkkmWQTw)
+* [用 Python 开发一个企业级的监控平台 - CSDN博客](https://blog.csdn.net/Mes8Y62b6ogV207/article/details/79127746)
+* [究竟哪个版本的Python是最快的？](https://mp.weixin.qq.com/s/n_jOzv_RDle7FCYfvlVwiA)
+* [Python 笔记一：简单入门及点评 - 简书](https://www.jianshu.com/p/a2b172049730)
+* [介绍Python2和Python3的兼容库six | 卡瓦邦噶！](https://www.kawabangga.com/posts/2360)
+* [Six: Python 2 and 3 Compatibility Library — six 1.10.0 documentation](https://pythonhosted.org/six/#object-model-compatibility)
+* [Python 2-3 兼容库 six](https://gist.github.com/kxxoling/3b0d9bf77b085d103fd6)
+* [Python3之six库知识扫盲 - CSDN博客](https://blog.csdn.net/qq_33733970/article/details/78923141)
+* [写程序怎么做到Python2与Python3兼容？ - 知乎](https://www.zhihu.com/question/50979825)
+* [Python 2 还是 3？ - Full Stack Python 简体中文网站](http://fullstackpython.atjiang.com/python-2-or-3.html)
+* [Scrapy on the Road to Python 3 Support – The Scrapinghub Blog](https://blog.scrapinghub.com/2015/08/19/scrapy-on-the-road-to-python-3-support/)
+* [Python 3 Readiness - Python 3 support table for most popular Python packages](http://py3readiness.org)
+* [监控 - Full Stack Python 简体中文网站](http://fullstackpython.atjiang.com/monitoring.html)
+* [Python性能监控工具 | Python性能测试工具 | Python监控系统 – OneAPM](http://www.oneapm.com/ai/python.html)
 * 
+
+

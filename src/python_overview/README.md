@@ -21,3 +21,15 @@
 -> **让（打工）人生不（那么）苦短**
 
 -> **用更少的代码，更好的实现更多的功能**
+
+## 举例：实现同样功能的`C++`和`Python`的代码量的对比
+
+此处通过，实现同样的功能，`ASF XML Serialization`，所需要的`C++`代码和`Python`代码做个对比：
+
+![same_function_cpp_vs_python](../assets/img/same_function_cpp_vs_python.png)
+
+就更能直观的体会到，什么叫做：
+
+**人生苦短，我用Python**
+
+即：用别的语言搞技术开发，有多么**苦逼**了。

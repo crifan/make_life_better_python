@@ -7,7 +7,7 @@
 即把Python源码，打包成可执行文件，比如
 
 * `Windows`中的`exe`
-* `Mac`中的`dmg`
+* `Mac`中的`dmg`、`app`
 
 等，就可以使用对应工具：
 

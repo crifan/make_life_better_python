@@ -1,11 +1,11 @@
 # 让你人生不苦短的编程语言：Python
 
-* 最新版本：`v0.8`
-* 更新时间：`20210411`
+* 最新版本：`v1.0`
+* 更新时间：`20210413`
 
 ## 简介
 
-介绍为何Python编程语言可以让你人生不苦短。包括Python语言的历史概述和能用Python做什么；介绍Python基础开发，包括常见的Python的编辑器和IDE，比如系统自带的文本编辑器、VSCode、PyCharm等；以及Python的语法，包括基础通用语法和Python特有语法，以及Python的内置函数；接着介绍Python的某些专题，比如如何打包、项目部署、测试、多线程相关；接着介绍Python的各个技术领域的开发，包括多版本和虚拟环境、表格处理、Web框架、数据科学和人工智能、网络、图像处理、爬虫、GUI图形界面、数据库、配置管理等；以及介绍其他Python相关内容，比如PEP、常用Python库、一些有趣的库、开发iOS或Mac程序、SSH等；最后附上Python相关教程。
+介绍为何Python编程语言可以让你人生不苦短。包括Python语言的历史概述、能用Python做什么、关于Python的一些常见谬误；介绍Python基础开发，包括选择Python2还是Python3、常见的Python的编辑器和IDE，比如系统自带的文本编辑器、VSCode、PyCharm等；以及Python的语法，包括基础通用语法和Python特有语法，以及Python的内置函数；接着介绍Python的某些专题，比如字符串、正则re、迭代器、dict字典、logging日志、copy拷贝、import导入、类和对象、site-packages、自带IDE即IDLE、何测试、多线程、历史版本等；接着介绍Python的各个技术领域的开发，包括多版本和虚拟环境、表格处理、Web框架、数据科学和人工智能、网络、图像处理、爬虫、GUI图形界面、数据库、打包、配置管理、项目部署、服务监控等；以及介绍其他Python相关内容，比如PEP、常用Python库、一些有趣的库、开发iOS或Mac程序、SSH等；最后附上Python相关教程。
 
 ## 源码+浏览+下载
 

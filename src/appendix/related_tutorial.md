@@ -14,9 +14,20 @@
       * https://www.crifan.com/files/doc/docbook/python_beginner_tutorial/release/html/python_beginner_tutorial.html
 * 别人写的
   * 廖雪峰的
-    * [Python教程 - 廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/1016959663602400)
+    * 新`Python 3`
+      * [Python教程 - 廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/1016959663602400)
+    * 旧`Python 2`
+      * [Python 2.7教程 - 廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/897692888725344)
 * Python官网的
   * [Python 教程 — Python 3 文档](https://docs.python.org/zh-cn/3/tutorial/index.html)
     * https://docs.python.org/zh-cn/3/tutorial/index.html
       * 注：这个是官网最新的，20210406 最新版已更新到`Python 3.9.4`
+* 其他相关
+  * [目录 Full Stack Python 简体中文网站](http://fullstackpython.atjiang.com/table-of-contents.html)
 
+## 其他旧Python教程
+
+我(Crifan Li)之前写的，Python相关教程，供需要的参考：
+
+* [python中级教程：开发总结](https://www.crifan.com/files/doc/docbook/python_intermediate_tutorial/release/html/python_intermediate_tutorial.html)
+* [Python语言总结](https://www.crifan.com/files/doc/docbook/python_summary/release/html/python_summary.html)
