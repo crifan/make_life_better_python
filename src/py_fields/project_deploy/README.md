@@ -26,14 +26,14 @@ org.apache.http.conn.HttpHostConnectException: Connect to x.x.x.x:port [/x.x.x.x
 
 对应的Postman也无法访问线上端口：
 
-![postman_request_api_failed](../assets/img/postman_request_api_failed.png)
+![postman_request_api_failed](../../assets/img/postman_request_api_failed.png)
 
 **可能原因 + 解决办法 + 操作步骤**：
 
 1. 线上环境是 阿里云的服务器。阿里云有个安全组，默认把非常用端口关闭了，导致此处无法访问对应端口。
   * **解决办法**：去阿里云的安全组中开通允许外部访问此端口
-    * ![aliyun_add_security_rule](../assets/img/aliyun_add_security_rule.png)
-    * ![aliyun_income_allow_rule](../assets/img/aliyun_income_allow_rule.png)
+    * ![aliyun_add_security_rule](../../assets/img/aliyun_add_security_rule.png)
+    * ![aliyun_income_allow_rule](../../assets/img/aliyun_income_allow_rule.png)
 2. `gunicorn`默认不允许非本机访问端口
   * **解决办法**：修改`gunicorn`配置的端口监听，允许外部访问端口
     1. 把`Flask`中`app`的`host`改为`0.0.0.0`

@@ -7,6 +7,7 @@
 * 【已解决】Python中删除字典dict中的键值
 * 【已解决】把Celery+Redis集成到在线Flask中且用supervisor去管理后台服务
 * 【已解决】把Python3的pipenv的Flask部署到CentOS服务器上
+* 【已解决】Fabric的三个版本fabric1、fabric2和fabric3的区别
 * 
 * [【已解决】python中的dict被copy后仍会被修改](http://www.crifan.com/python_after_copy_modify_still_updated)
 * [轻量但强大的Python框架：Flask](https://book.crifan.com/books/light_powerful_python_framework_flask/website/)
@@ -92,6 +93,10 @@
 * [Python 3 Readiness - Python 3 support table for most popular Python packages](http://py3readiness.org)
 * [监控 - Full Stack Python 简体中文网站](http://fullstackpython.atjiang.com/monitoring.html)
 * [Python性能监控工具 | Python性能测试工具 | Python监控系统 – OneAPM](http://www.oneapm.com/ai/python.html)
+* [Python - Fabric简介 - Anliven - 博客园](https://www.cnblogs.com/anliven/p/9186994.html)
+* [使用 Fabric 部署 — Flask 0.10.1 文档](http://docs.jinkan.org/docs/flask/patterns/fabric.html)
+* [Python远程部署利器Fabric详解 - Python - 伯乐在线](http://python.jobbole.com/87241/)
+* [fabric实现远程操作和部署 - Python - 伯乐在线](http://python.jobbole.com/83716/)
+* [Python模块学习 - fabric - 一只小小的寄居蟹 - 博客园](https://www.cnblogs.com/xiao-apple36/p/9124292.html)
 * 
-
 

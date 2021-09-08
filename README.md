@@ -1,7 +1,7 @@
 # 让你人生不苦短的编程语言：Python
 
-* 最新版本：`v1.0`
-* 更新时间：`20210413`
+* 最新版本：`v1.1`
+* 更新时间：`20210802`
 
 ## 简介
 
@@ -21,14 +21,14 @@
 
 ### 在线浏览
 
-* [让你人生不苦短的编程语言：Python book.crifan.com](http://book.crifan.com/books/make_life_better_python/website)
+* [让你人生不苦短的编程语言：Python book.crifan.com](https://book.crifan.com/books/make_life_better_python/website)
 * [让你人生不苦短的编程语言：Python crifan.github.io](https://crifan.github.io/make_life_better_python/website)
 
 ### 离线下载阅读
 
-* [让你人生不苦短的编程语言：Python PDF](http://book.crifan.com/books/make_life_better_python/pdf/make_life_better_python.pdf)
-* [让你人生不苦短的编程语言：Python ePub](http://book.crifan.com/books/make_life_better_python/epub/make_life_better_python.epub)
-* [让你人生不苦短的编程语言：Python Mobi](http://book.crifan.com/books/make_life_better_python/mobi/make_life_better_python.mobi)
+* [让你人生不苦短的编程语言：Python PDF](https://book.crifan.com/books/make_life_better_python/pdf/make_life_better_python.pdf)
+* [让你人生不苦短的编程语言：Python ePub](https://book.crifan.com/books/make_life_better_python/epub/make_life_better_python.epub)
+* [让你人生不苦短的编程语言：Python Mobi](https://book.crifan.com/books/make_life_better_python/mobi/make_life_better_python.mobi)
 
 ## 版权说明
 
